@@ -29,11 +29,11 @@
   <distributionManagement>
       <repository>
           <id>repo</id>
-          <url>https://github.com/bertcarnell/bertcarnellMavenMicroRepo/releases</url>
+          <url>https://raw.github.com/bertcarnell/bertcarnellMavenMicroRepo/master/releases</url>
       </repository>
       <snapshotRepository>
           <id>snapshot-repo</id>
-          <url>https://github.com/bertcarnell/bertcarnellMavenMicroRepo/snapshots</url>
+          <url>https://raw.github.com/bertcarnell/bertcarnellMavenMicroRepo/master/snapshots</url>
       </snapshotRepository>
   </distributionManagement>
 
