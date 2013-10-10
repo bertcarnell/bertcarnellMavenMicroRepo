@@ -33,7 +33,7 @@ To include a repository in your project, add these sections to your pom.xml
           <id>bertcarnellMavenMicroRepo-releases</id>
           <!-- github url -->
           <url>https://raw.github.com/bertcarnell/bertcarnellMavenMicroRepo/master/releases</url>
-          <!-- indicate this is a release repository
+          <!-- indicate this is a release repository -->
           <releases>
               <enabled>true</enabled>
           </releases>
