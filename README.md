@@ -1,12 +1,12 @@
 bertcarnellMavenMircoRepo
 =========================
 
-Maven Micro Repository for bertcarnell java projects
+[Maven Micro Repository](http://maven.apache.org/) for [bertcarnell](https://github.com/bertcarnell) java projects
 
 ### Include one of these repositories in your project
 
 
-To include a repository in your project, add these sections to your pom.xml
+To include a repository in your project, add these sections to your <code>pom.xml</code>
 
 ``` xml
 <project>
